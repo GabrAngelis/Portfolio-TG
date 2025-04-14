@@ -3,6 +3,8 @@
 ## Introdução
 
 Olá, meu nome é Gabriel Luis De Angelis!<br>
+<img src="./imagens/foto.jpeg" alt="Foto" width="300"/>
+<br>
 Meu contato com a tecnologia se fez presente em minha vida ainda em minha infância, com meu primeiro computador. A partir disso, me interessei por diveros assuntos relacionados a programação. <br>
 Por diversas vezes, explorei formas de manutenção de computadores, funcionamento de programas e tópicos como edição de imagem e vídeo. Entretanto, foi com minha entrada na Fatec que conheci melhor o mundo da programação. <br>
 Ao final do curso, desejo estar apto a realização de tarefas na área, com o desejo de futuramente seguir carreira e realizar uma pós graduação na área.
