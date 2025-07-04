@@ -135,17 +135,17 @@ Em parceria com a empresa, a equipe desenvolveu uma aplicação React para geren
 
 
 #### Contribuições Pessoais
-Nesse projeto, tive a responsabilidade de desenvolver parte do Frontend e funcionalidades da página de usuário comum.
+Nesse projeto, tive a responsabilidade de desenvolver parte do Frontend e funcionalidades da página de usuário comum com a utilização de React para o Frontend e Node.js para funções do backend.
 
 #### Hard Skills
-**React**: Como nova tecnologia para o Frontend, tive que aprender a como utilizá-la, a melhor maneira de usufruir de suas capacidades e como tornar o Frontend das páginas o mais agradável visualmente.
+**React(Competente)**: Como nova tecnologia para o Frontend, tive que aprender a como utilizá-la, a melhor maneira de usufruir de suas capacidades e como tornar o Frontend das páginas o mais agradável visualmente.
 
-**Backend**: Para algumas funções da minha página, tive que aprimorar meus conhecimentos nas linguagens utilizadas no desenvolvimento do Backend, ainda que de forma breve.
+**JavaScript(Competente)**: Para algumas funções da minha página, tive que aprimorar meus conhecimentos nas linguagens utilizadas no desenvolvimento do Backend, ainda que de forma breve.
 
 #### Soft Skills
-**Gerenciamento de tempo**: Tarefas necessitavam ser divididas em prazos para que funções e outras atividades pudessem continuar, exigindo um bom gerenciamento de tempo para o projeto.
+**Correção de problemas**: Houve a necessidade de correção do frontend de algumas páginas, incluindo a página de usuário comum da qual era responsável, devido a implementações tardias que acabaram por alterar a aparência da página sem motivos aparentes.
 
-**Adaptabilidade**: Com o desenvolvimento do Frontend, foram necessárias mudanças e adaptações para que o visual ficasse o melhor possível, de acordo com o desejo do cliente. Além disso, padronizar páginas também foi necessário para um visual mais fluido.
+**Comunicação**: Como citado acima, a comunicação para a correção das páginas foi necessária para que pudéssemos identificar em qual implementação ocorreu o erro. 
 
 <br>
 
