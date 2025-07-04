@@ -35,7 +35,7 @@ No momento, ainda estou buscando pela minha primeira experiência profissional, 
 
 ### Em 2022-1
 
-O primeiro projeto integrador teve a proposta da criação de um site de catálogo de vagas e cursos com uma atualização dinâmica. Nesse projeto em específico, trabalhamos com um cliente interno da Fatec, o professor Antônio Egydio. <br>
+O primeiro projeto, em parceria com o professor Antônio Egydio, buscava solucionar o problema da falta de uma plataforma centralizada para catalogar vagas de empregos e cursos em diversas áreas. A ausência de uma ferramenta para isso dificultava que profissionais e estudantes pudessem encontrar essas vagas de forma rápida e organizada. <br>
 
 ### Resolução:
 
@@ -60,18 +60,16 @@ A divisão de tarefas se baseou inicialmente em interesse base de cada um, mas c
 
 
 #### Contribuições Pessoais
-Minha contribuição se baseou especificamente na criação de parte do visual e desenvolvimento de páginas responsivas e dinâmicas, nas quais foi utilizado o css e o framework Bootstrap para um melhor dinamismo nas páginas.
+Minha contribuição se baseou especificamente na criação de parte do visual e desenvolvimento de páginas responsivas e dinâmicas, mais especificamente a página de busca de cursos da plataforma .
 
 #### Hard Skills
-**HTML e CSS(Proficiente):** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS, identificando a necessidade da utilização do Bootstrap para melhor responsividade e aparência das páginas de nosso projeto. <br>
+**HTML e CSS(Proficiente):** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS. <br>
 **Python(Competente):** Ainda que de forma breve, aprendi parcialmente a funcionalidade e a aplicação da raspagem de dados com Python.
 
 #### Soft Skills
-**Comunicação**: Devido ao dinamismo e necessidade de constante planejamento durante o projeto, mantive a equipe informada do desenvolvimento de minhas funções, bem como informações necessárias e que poderiam agregar ao conhecimento geral do grupo.
+**Comunicação e trabalho em equipe**: Principalmente por se tratar do primeiro API, houveram dificuldades que precisaram ser comunicadas. Da minha parte, identifiquei a necessidade da utilização do framework Bootstrap para melhor desenvolvimento visual das páginas, comunicando tal necessidade para o grupo.
 
-**Proatividade**: Por se tratar do primeiro API, a proatividade para o estudo individual e em grupo se fez necessário. Meu conhecimento com a linguagem e desenvolvimento cresceu conforme o projeto se extendia.
-
-**Organização**: Se fez necessário a organização tanto de estudos quanto tarefas práticas para melhor desempenho durante o projeto. Individualmente, tive um pouco de dificuldade, mas pude contar com o auxílio da equipe.
+**Aprendizado**: Após o desenvolvimento do frontend, trabalhei com alguns colegas para o desenvolvimento do código de raspagem de dados. Por não estar focado nessa parte no início devido a outras responsabilidades, pedi para que um colega pudesse me ensinar parte do funcionamento do código que tínhamos até então.
 
 <br>
 
@@ -151,7 +149,7 @@ Nesse projeto, tive a responsabilidade de desenvolver parte do Frontend e funcio
 
 ### Em 2023-2
 
-A empresa Greenneat, especializada em produtos de limpeza sustentáveis, precisava de uma forma de gerenciar usuários e créditos relacionados a transação de troca de óleo, convertendo em descontos na loja virtual.  <br>
+A empresa Greenneat, especializada em produtos de limpeza sustentáveis, enfrentava um problema na forma de gerenciar usuários e créditos relacionados a transação de troca de óleo. Havia necessidade de acompanhar as transações, a conversão de créditos em desconto na loja virtual e também no controle centralizado para um administrador.  <br>
 
 ### Resolução:
 
