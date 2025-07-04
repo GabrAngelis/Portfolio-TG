@@ -77,7 +77,7 @@ Minha contribuição se baseou especificamente na criação de parte do visual e
 
 ### Em 2022-2
 
-Em parceria com a empresa TrackCash, identificou-se um problema no gerenciamento seguro de gastos e informações sensíveis. A empresa lidava com canais de marketplace, plataformas ERP, senhas e tokens, etc. A falta de uma ferramenta própria para o gerenciamento desses gastos dificultava a organização. <br>
+Em parceria com a empresa TrackCash, empresa especializada em no setor financeiro focada em controle de gastos, identificou-se um problema no gerenciamento seguro de gastos e informações sensíveis. A empresa enfrentava desafios para gerenciamento de canais de marketplace, plataformas ERP, senhas e tokens, etc. A falta de uma ferramenta própria para o gerenciamento desses gastos dificultava a organização. <br>
 
 ### Resolução:
 
@@ -97,23 +97,21 @@ Para resolver o problema, desenvolvemos uma aplicação Java desktop que permite
 
 
 #### Contribuições Pessoais
-Nesse projeto, fiquei responsável por parte do Frontend, detalhamento de algumas páginas. Além disso, também fiquei responsável pelo modelo de dados, modelo físico e modelo lógico.
+Nesse projeto, fiquei responsável por parte do Frontend, detalhamento de algumas páginas. Além disso, também fiquei responsável pelo modelo de dados, modelo físico e modelo lógico. O desenvolvimento foi feito com a utilização de Java desktop, em especial, fiquei responsável pela página de FAQ e telas de edição de informações.
 
 #### Hard Skills
-**Java**: O aprendizado de uma nova linguagem de programação se mostrou um desafio de início, mas juntamente com a equipe pude aperfeiçoar meu conhecimento para poder desenvolver melhor minhas tarefas.
+**Java (Competente)**: O aprendizado de uma nova linguagem de programação se mostrou um desafio de início, mas juntamente com a equipe pude aperfeiçoar meu conhecimento para poder desenvolver melhor minhas tarefas.
 
-**Modelo de dados**: Como responsável pelo modelo de dados, tive que entender as relações de estrutura lógica no banco de dados e detalhá-los de forma visual.
+**Modelo de dados(Proficiente)**: Como responsável pelo modelo de dados, tive que entender as relações de estrutura lógica no banco de dados e detalhá-los de forma visual.
 
 #### Soft Skills
-**Comunicação**: Com melhor familiaridade com a equipe, a comunicação se tornou um pouco mais clara do que no semestre anterior. Ainda que com algumas dificuldades, pude comunicar meu avanço para a equipe, bem como os desafios.
-
-**Trabalho em equipe**: Com uma nova bagagem de tecnologias a ser aprendida, o trabalho em equipe foi essencial para que todos pudessem aprender juntos e o projeto pudesse ser desenvolvido sem muitos erros. Além disso, a necessidade de mudanças durante o projeto também se mostrou necessária, o que exigiu adaptabilidade.
+**Trabalho em equipe e comunicação**: Colaborei com outros integrantes do grupo para o desenvolvimento do Frontend, comunicando dificuldades com a nova ferramenta que estava sendo utilizada, principalmente no início do projeto.
 
 <br>
 
 ### Em 2023-1
 
-Nosso cliente desse semestre foi a empresa Visiona, que enfrentava um problema para o monitoramento da ação de seus usuários, como edição, exclusão, entre outras ações. A empresa necessitava de uma aplicação para melhor visualização das ações dos usuários, melhorando o poder administrativo. <br>
+Nosso cliente desse semestre foi a empresa Visiona, empresa especializada na integração de sistemas espaciais e serviços de satélite. A empresa enfrentava um problema em rastrear operações realizadas por usuários e precisava de uma ferramenta confiável em que os administradores pudessem verificar edições, exclusões e cadastros efetuados por usuários.
 
 ### Resolução:
 
