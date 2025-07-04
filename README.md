@@ -63,8 +63,8 @@ A divisão de tarefas se baseou inicialmente em interesse base de cada um, mas c
 Minha contribuição se baseou especificamente na criação de parte do visual e desenvolvimento de páginas responsivas e dinâmicas, nas quais foi utilizado o css e o framework Bootstrap para um melhor dinamismo nas páginas.
 
 #### Hard Skills
-**Desenvolvimento web(Proficiente):** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS, identificando a necessidade da utilização do Bootstrap para melhor responsividade e aparência das páginas de nosso projeto. <br>
-**Raspagem de dados(Competente):** Ainda que de forma breve, aprendi parcialmente a funcionalidade e a aplicação da raspagem de dados com Python.
+**HTML e CSS(Proficiente):** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS, identificando a necessidade da utilização do Bootstrap para melhor responsividade e aparência das páginas de nosso projeto. <br>
+**Python(Competente):** Ainda que de forma breve, aprendi parcialmente a funcionalidade e a aplicação da raspagem de dados com Python.
 
 #### Soft Skills
 **Comunicação**: Devido ao dinamismo e necessidade de constante planejamento durante o projeto, mantive a equipe informada do desenvolvimento de minhas funções, bem como informações necessárias e que poderiam agregar ao conhecimento geral do grupo.
@@ -189,7 +189,7 @@ Nesse projeto, fiquei responsável por páginas como a de registro e também par
 
 ### Em 2024-1
 
-A empresa Oracle desejava criar uma aplicação mobile para gerenciar trilhas de conhecimentos, expertises e aprendizado no geral. O sistema deveria garantir escalabilidade, uma interface intuitiva e oferecer uma interface admnistrativa com diferentes níveis de acesso. <br>
+A empresa Oracle, multinacional líder em tecnologia e inovação, enfrentava problemas para gerenciar trilhas de conhecimento e expertises de parceiros de forma segura e escalável. Além disso, havia a necessidade de visualizar o progresso individual de cada parceiro e suas trilhas de forma segura e intuitiva.
 
 ### Resolução:
 
@@ -212,13 +212,10 @@ Para cumprir o desafio proposto, a equipe desenvolveu uma aplicação mobile bas
 
 
 #### Contribuições Pessoais
-Nesse projeto me responsabilizei pela criação de algumas páginas do Frontend, bem como páginas home e de login.
+Nesse projeto me responsabilizei pela criação de algumas páginas do Frontend, páginas home e também a criação da página de login, utilizando React Native para a interface gráfica.
 
 #### Hard Skills
-**Desenvolvimento mobile**: A mudança de portabilidade trouxe um desafio a mais, ainda que a linguagem em si já tivesse sido estudada anteriormente.
-
+**React Native(Competente)**: Enfrentei algumas dificuldade pela diferença de alguns pontos entre o React comum e o Native, mas pude desenvolver.
 
 #### Soft Skills
-**Aprendizado**: Alguns desafios de portabilidade se mostraram presentes no desenvolvimento do projeto.
-
-**Comunicação**: Dificuldades foram comunicadas e, com ajuda da equipe, pude sanar essas dúvidas com relação ao desenvolvimento do projeto.
+**Comunicação e aprendizado**: Tive problemas para a execução da aplicação mobile no meu dispositivo, o que dificultou o desenvolvimento correto em alguns momentos. Comunicando isso, pude corrigir alguns problemas de responsividade com a ajuda de um colega de equipe.
