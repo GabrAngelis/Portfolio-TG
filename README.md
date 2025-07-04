@@ -63,8 +63,8 @@ A divisão de tarefas se baseou inicialmente em interesse base de cada um, mas c
 Minha contribuição se baseou especificamente na criação de parte do visual e desenvolvimento de páginas responsivas e dinâmicas, nas quais foi utilizado o css e o framework Bootstrap para um melhor dinamismo nas páginas.
 
 #### Hard Skills
-**Desenvolvimento web:** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS, identificando a necessidade da utilização do Bootstrap para melhor responsividade e aparência das páginas de nosso projeto. <br>
-**Raspagem de dados:** Ainda que de forma breve, aprendi parcialmente a funcionalidade e a aplicação da raspagem de dados com Python.
+**Desenvolvimento web(Proficiente):** Com a necessidade da criação de páginas do Frontend, desenvolvi e apliquei aprendizado em HTML e CSS, identificando a necessidade da utilização do Bootstrap para melhor responsividade e aparência das páginas de nosso projeto. <br>
+**Raspagem de dados(Competente):** Ainda que de forma breve, aprendi parcialmente a funcionalidade e a aplicação da raspagem de dados com Python.
 
 #### Soft Skills
 **Comunicação**: Devido ao dinamismo e necessidade de constante planejamento durante o projeto, mantive a equipe informada do desenvolvimento de minhas funções, bem como informações necessárias e que poderiam agregar ao conhecimento geral do grupo.
@@ -151,7 +151,7 @@ Nesse projeto, tive a responsabilidade de desenvolver parte do Frontend e funcio
 
 ### Em 2023-2
 
-Em parceria com a empresa Greenneat, nos foi proposto o desafio de criar um meio para que a empresa pudesse gerenciar seus transações de óleo usado para geração de créditos. Esses mesmos créditos seriam usados para compras no mesmo ambiente e cada compra deveria ser registrada de forma que o admnistrador visualizasse de forma clara. <br>
+A empresa Greenneat, especializada em produtos de limpeza sustentáveis, precisava de uma forma de gerenciar usuários e créditos relacionados a transação de troca de óleo, convertendo em descontos na loja virtual.  <br>
 
 ### Resolução:
 
