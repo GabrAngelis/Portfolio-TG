@@ -165,24 +165,25 @@ Para solucionar o desafio, um aplicação web baseada em React e TypeScript foi 
   
   -  **React**: Para criação do Frontend da aplicação.
   -  **VSCode**: Como ambiente de desenvolvimento.
-  -  **JavaScript**: Para boa parte do desenvolvimento do projeto e suas funcionalidades.
-  -  **Node.js**: Utilizado untamente com o JavaScript.
+  -  **TypeScript**: Para boa parte do desenvolvimento do projeto e suas funcionalidades.
+  -  **Node.js**: Configuração do servidor backend.
   -  **MySQL**: Para registro e consulta de dados do sistema.
   -  **Git e Github**: Para versionamento do projeto.
 </details>
 
 
 #### Contribuições Pessoais
-Nesse projeto, fiquei responsável por páginas como a de registro e também parte da página do administrador, Frontend e backend, respectivamente.
+Nesse projeto, fiquei responsável por páginas como a de registro e também parte da página do administrador, Frontend e backend, respectivamente. O desenvolvimento foi feito com a utilização de React para o frontend e TypeScript para o backend.
 
 #### Hard Skills
-**Desenvolvimento Backend**: Melhorei minhas habilidades de Backend nas linguagens propostas.
+**React(Proficiente)**: Por já ter feito o desenvolvimento do projeto anterior em React, o desenvolvimento se tornou mais fácil.
 
+**TypeScript(Competente**): Tive algumas dificuldades com a linguagem mas pude efetuar o desenvolvimento necessário.
+
+**MySQL(Competente)**: Dificuldade inicial apenas.
 
 #### Soft Skills
-**Comunicação**: Nesse projeto, tive dificuldades em que necessitei comunicar para meu time. Especificamente, algumas dificuldades para o desenvolvimento Backend, as quais foram sanadas com a ajuda de um colega mais experiente na linguagem.
-
-**Adaptabilidade**: Mudanças foram necessárias durante o tempo de desenvolvimento, seja por dificuldades ou em conversas/apresentações para o cliente.
+**Comunicação e trabalho em equipe**: Tive a necessidade de comunicar uma dificuldade com o desenvolvimento da página de registro, em específico a forma de ligação entre a aplicação e o banco de dados. Tal dúvida foi sanada ao me comunicar com um colega de equipe.
 
 <br>
 
